@@ -1,7 +1,7 @@
-**ThoughtLite** 是一款专注内容创作的现代化 [Astro](https://astro.build/) 主题。
+**Hi，这里是Data Li 的测试站点** 
 
-主题聚焦于内容相关的核心功能，旨在构建一个**高效、通透**的创作空间。
+这里指向一个 [外部链接](https://example.com/) 。
 
-同时，主题还支持**多语言切换**、**响应式布局**、**动态内容筛选**等现代特性，为用户带来流畅的使用体验。
+这是一段测试文本。
 
-如果您对主题有所兴趣，欢迎访问 [**GitHub 仓库**](https://github.com/tuyuritio/astro-theme-thought-lite)，了解更多信息并快速上手。
+近期我还有一些其他项目，欢迎访问我的 [**GitHub 主页**](https://github.com/io8963)，了解更多相关信息。
