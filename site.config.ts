@@ -6,7 +6,7 @@ const config = siteConfig({
 	author: {
 		name: "Your Name",
 		email: "hi@your.mail",
-		link: "https://your.website"
+		link: "https://test.mydatali.com"
 	},
 	description: "A modern Astro theme focused on content creation.",
 	copyright: {
