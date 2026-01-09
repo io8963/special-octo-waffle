@@ -1,7 +1,7 @@
 import siteConfig from "./src/utils/config";
 
 const config = siteConfig({
-	title: "Data Li 的测试站点",
+	title: "Data Li",
 	prologue: "This is a test text.",
 	author: {
 		name: "Data Li",
@@ -11,7 +11,7 @@ const config = siteConfig({
 	description: "这是一段网站内容的简要概述.",
 	copyright: {
 		type: "CC BY-NC-SA 4.0",
-		year: "2025"
+		year: "2026"
 	},
 	i18n: {
 		locales: ["zh-cn"],
